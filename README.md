@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/CharliecMcKenzie/ActiveDirectoryLab))
+- [Active Directory Home Lab](https://github.com/CharliecMcKenzie/ActiveDirectoryLab)
 - [SOC + Honeynet in Azure](url)
 
 
