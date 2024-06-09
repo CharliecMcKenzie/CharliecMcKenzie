@@ -13,7 +13,7 @@
 
 
 
-[linkedin]: www.linkedin.com/in/charles-mckenzie-a70b72163
+[linkedin]: https://www.linkedin.com/in/charles-mckenzie-a70b72163/
 
 
 
