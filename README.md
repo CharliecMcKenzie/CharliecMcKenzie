@@ -13,7 +13,7 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/charles-mckenzie-a70b72163/
+[linkedin]: https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png
 
 
 
