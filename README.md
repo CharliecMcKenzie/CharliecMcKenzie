@@ -9,7 +9,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="CharlesMcKenzie | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="CharlesMcKenzie | LinkedIn" width="22px" src="https://i.imgur.com/kvSKbVS.png" />][linkedin]
 
 
 
