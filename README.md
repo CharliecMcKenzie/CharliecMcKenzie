@@ -2,8 +2,8 @@
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/CharliecMcKenzie/ActiveDirectoryLab)
 - [SOC + Honeynet in Azure](url)
+- [Active Directory Home Lab](https://github.com/CharliecMcKenzie/ActiveDirectoryLab)
 - [Updating an IP Allow List with a Python Algorithm](https://github.com/CharliecMcKenzie/Updating-an-IP-Allow-List-with-a-Python-Algorithm)
 - [Apply filters to SQL queries](https://github.com/CharliecMcKenzie/ApplyfiltersToSQLQueries)
 
