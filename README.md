@@ -5,6 +5,7 @@
 - [Active Directory Home Lab](https://github.com/CharliecMcKenzie/ActiveDirectoryLab)
 - [SOC + Honeynet in Azure](url)
 - [Updating an IP Allow List with a Python Algorithm](https://github.com/CharliecMcKenzie/Updating-an-IP-Allow-List-with-a-Python-Algorithm)
+- [Apply filters to SQL queries](https://github.com/CharliecMcKenzie/ApplyfiltersToSQLQueries)
 
 
 <h2> 🤳 Connect with me:</h2>
