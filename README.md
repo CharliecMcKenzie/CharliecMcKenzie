@@ -4,6 +4,7 @@
 
 - [SOC and Honeynet in Azure](https://github.com/CharliecMcKenzie/SOC-and-Honeynet-in-Azure)
 - [Active Directory Home Lab](https://github.com/CharliecMcKenzie/ActiveDirectoryLab)
+- [TryHackMe Tempest Challenge](https://github.com/CharliecMcKenzie/TryHackMe-Tempest)
 - [Updating an IP Allow List with a Python Algorithm](https://github.com/CharliecMcKenzie/Updating-an-IP-Allow-List-with-a-Python-Algorithm)
 - [Apply filters to SQL queries](https://github.com/CharliecMcKenzie/ApplyfiltersToSQLQueries)
 - [File permissions in Linux](https://github.com/CharliecMcKenzie/FilePermissionsInLinux)
