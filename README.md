@@ -1,16 +1,20 @@
-<h1>Hi, I'm Charlie! </a></h1>
+# Hi, I'm Charlie!
 
-<h2>👨‍💻Cybersecurity Projects:</h2>
+## 👨‍💻Cybersecurity Projects:</h2>
 
 - [SOC and Honeynet in Azure](https://github.com/CharliecMcKenzie/SOC-and-Honeynet-in-Azure)
 - [Active Directory Home Lab](https://github.com/CharliecMcKenzie/ActiveDirectoryLab)
-- [TryHackMe Tempest Challenge](https://github.com/CharliecMcKenzie/TryHackMe-Tempest)
 - [Updating an IP Allow List with a Python Algorithm](https://github.com/CharliecMcKenzie/Updating-an-IP-Allow-List-with-a-Python-Algorithm)
 - [Apply filters to SQL queries](https://github.com/CharliecMcKenzie/ApplyfiltersToSQLQueries)
 - [File permissions in Linux](https://github.com/CharliecMcKenzie/FilePermissionsInLinux)
 
+## ☁️TryHackMe SOC Level 1 Capstone Challenges
 
-<h2> 🤳 Connect with me:</h2>
+- [TryHackMe Tempest Challenge](https://github.com/CharliecMcKenzie/TryHackMe-Tempest)
+- [TryHackMe Boogeyman 1 Challenge](https://github.com/CharliecMcKenzie/TryHackMe-Boogeyman1)
+
+
+##  🤳 Connect with me:</h2>
 
 
 [<img align="left" alt="CharlesMcKenzie | LinkedIn" width="22px" src="https://i.imgur.com/kvSKbVS.png" />][linkedin]
