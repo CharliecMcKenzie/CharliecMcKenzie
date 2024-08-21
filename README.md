@@ -8,10 +8,12 @@
 - [Apply filters to SQL queries](https://github.com/CharliecMcKenzie/ApplyfiltersToSQLQueries)
 - [File permissions in Linux](https://github.com/CharliecMcKenzie/FilePermissionsInLinux)
 
-## ☁️TryHackMe SOC Level 1 Capstone Challenges
+## ☁️TryHackMe SOC Level 1 Capstone Challenges:
 
 - [TryHackMe Tempest Challenge](https://github.com/CharliecMcKenzie/TryHackMe-Tempest)
 - [TryHackMe Boogeyman 1 Challenge](https://github.com/CharliecMcKenzie/TryHackMe-Boogeyman1)
+- [TryHackMe Boogeyman 2 Challenge](https://github.com/CharliecMcKenzie/TryHackMe-Boogeyman2)
+- [TryHackMe Boogeyman 3 Challenge](https://github.com/CharliecMcKenzie/-TryHackMe-Boogeyman3)
 
 
 ##  🤳 Connect with me:</h2>
